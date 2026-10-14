@@ -1,8 +1,7 @@
-# Credit-Card-Fraud-Detection-PowerBI
+# 📊 Credit Card Fraud Detection & Transaction Risk Analysis
 
 Interactive Power BI dashboard analyzing credit card transactions, fraudulent activity, transaction categories, hourly patterns, transaction amounts, and age groups using KPI cards, charts, and interactive filters.
 
-# 📊 Credit Card Fraud Detection & Transaction Risk Analysis
 
 ## 📌 Project Overview
 
@@ -89,10 +88,17 @@ The dataset is intended for educational and analytical purposes and does not rep
 - Supports analysis by category, hour, amount, and age group.
 - Presents transaction insights through interactive visualizations.
 
+
+## 📁 Project Files
+
+- **Dashboard Preview:** PDF available in this GitHub repository.
+- **Power BI Report:** [Download the PBIX file](https://drive.google.com/file/d/12aNsI8enzMCRaoiacZaBCmAfqBDJN86C/view?usp=sharing)
+
+
 ## 🖥️ How to View the Project
 
 1. View the PDF dashboard preview available in this repository.
-2. Download the Power BI report (`.pbix`) using the project download link provided in this repository.
+2. Download the [Power BI Dashboard (.pbix)](https://drive.google.com/file/d/12aNsI8enzMCRaoiacZaBCmAfqBDJN86C/view?usp=sharing) from Google Drive.
 3. Open the `.pbix` file using Microsoft Power BI Desktop.
 4. Explore the charts, KPI cards, and interactive filters.
 
@@ -101,4 +107,4 @@ The dataset is intended for educational and analytical purposes and does not rep
 **Linga Abidha**
 
 - 🎓 B.Sc. Data Science Student
-- 🐙 GitHub: lingaabidha
+- 🐙 GitHub: [lingaabidha](https://github.com/lingaabidha)
