@@ -101,4 +101,4 @@ The dataset is intended for educational and analytical purposes and does not rep
 **Linga Abidha**
 
 - 🎓 B.Sc. Data Science Student
-- 🐙 GitHub: Add your GitHub profile link here
+- 🐙 GitHub: lingaabidha
