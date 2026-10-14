@@ -55,5 +55,5 @@ The dataset contains simulated credit card transaction records. It is intended f
 This project is for educational and analytical purposes only. It is not a deployed fraud detection system and should not be used to make real-world financial decisions.
 
 ## Author
-
+Linga Abidha
 B.Sc. Data Science Student | Aspiring Data Analyst
