@@ -1,59 +1,104 @@
-# Credit Card Fraud Detection & Transaction Risk Analysis
+# Credit-Card-Fraud-Detection-PowerBI
 
-## Project Overview
+Interactive Power BI dashboard analyzing credit card transactions, fraudulent activity, transaction categories, hourly patterns, transaction amounts, and age groups using KPI cards, charts, and interactive filters.
 
-This project uses Microsoft Power BI to analyze credit card transactions and explore patterns associated with fraudulent activity. The dashboard presents key performance indicators (KPIs) and interactive visualizations to help understand transaction trends and potential fraud risks.
+# 📊 Credit Card Fraud Detection & Transaction Risk Analysis
 
-## Project Objectives
+## 📌 Project Overview
+
+The Credit Card Fraud Detection & Transaction Risk Analysis dashboard is a data visualization project developed using Microsoft Power BI. It analyzes credit card transactions to explore patterns associated with fraudulent activity and presents insights through interactive charts, graphs, KPI cards, and filters.
+
+## 🎯 Project Objectives
 
 - Analyze fraudulent and legitimate credit card transactions.
-- Track total transactions, fraudulent transactions, fraud rate, and transaction amounts.
-- Explore fraud patterns by transaction category, hour, amount, and customer age group.
-- Present findings through an interactive Power BI dashboard.
+- Monitor transaction volume and fraud rates.
+- Explore fraud patterns across transaction categories.
+- Analyze fraudulent transactions by hour and over time.
+- Examine fraud rates across transaction amount ranges.
+- Analyze fraud rates across customer age groups.
+- Present findings through an interactive dashboard.
 
-## Dashboard Features
+## 🛠️ Tools and Technologies
 
-- **KPI Cards:** Total Transactions, Fraudulent Transactions, Fraud Rate, Fraudulent Transaction Amount, and Average Transaction Amount.
-- **Fraud Distribution:** Comparison of fraudulent and legitimate transactions.
-- **Time Analysis:** Fraudulent transaction trends over time.
-- **Category Analysis:** Fraud rate across transaction categories.
-- **Hourly Analysis:** Distribution of fraudulent transactions by hour.
-- **Amount Analysis:** Fraud rate across transaction amount groups.
-- **Age Group Analysis:** Fraud rate across customer age groups.
-- **Transaction Details:** Table for exploring transaction records.
-- **Interactive Filters:** Slicers for filtering the dashboard.
+- **Microsoft Power BI** — Dashboard creation and data visualization.
+- **Power Query** — Data loading and transformation.
+- **DAX (Data Analysis Expressions)** — Measures and calculated columns.
+- **CSV Dataset** — Transaction data source.
 
-## Tools and Technologies
+## 📂 Dataset Details
 
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
-- Data Cleaning and Transformation
-- Data Visualization
+**Dataset Source:** [Credit Card Transactions Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-## Dataset
+The dataset contains simulated credit card transaction records and includes the following information:
 
-**Source:** [Credit Card Transactions Fraud Detection Dataset — Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+- Transaction Date and Time
+- Credit Card Number Identifier
+- Merchant
+- Transaction Category
+- Transaction Amount
+- Customer Gender
+- Customer Location
+- Date of Birth
+- Fraud Indicator (`is_fraud`)
 
-The dataset contains simulated credit card transaction records. It is intended for analytical and educational use and does not represent actual bank transaction records.
+The dataset is intended for educational and analytical purposes and does not represent actual bank transaction records.
 
-## Project Files
+## 📈 Dashboard Features
 
-- **Dashboard Preview:** PDF version of the Power BI dashboard.
-- **Interactive Power BI Report:** The `.pbix` file will be shared through an external download link.
+### KPI Cards
 
-## Key Learning Outcomes
+- Total Transactions
+- Fraudulent Transactions
+- Fraud Rate
+- Fraudulent Transaction Amount
+- Average Transaction Amount
 
-- Building an interactive Power BI dashboard.
-- Creating measures and calculated columns using DAX.
-- Analyzing transaction patterns and fraud-related indicators.
-- Designing KPI cards, charts, slicers, and transaction detail tables.
-- Communicating analytical findings through data visualization.
+### Visualizations
 
-## Disclaimer
+- Fraudulent vs. Legitimate Transactions
+- Fraudulent Transactions Over Time
+- Fraud Rate by Transaction Category
+- Fraudulent Transactions by Hour
+- Fraud Rate by Transaction Amount
+- Fraud Rate by Age Group
+- Transaction Details Table
 
-This project is for educational and analytical purposes only. It is not a deployed fraud detection system and should not be used to make real-world financial decisions.
+### Interactive Filters
 
-## Author
-Linga Abidha.
-B.Sc. Data Science Student | Aspiring Data Analyst
+- Transaction Date or Time Period
+- Transaction Category
+- Other available dashboard filters
+
+## ⚙️ Project Workflow
+
+1. Imported the credit card transaction dataset into Power BI.
+2. Combined the training and testing datasets.
+3. Loaded and transformed transaction data using Power Query.
+4. Created calculated columns for transaction date, month, hour, age group, and transaction amount group.
+5. Created DAX measures to calculate transaction counts, fraud rate, and transaction amounts.
+6. Designed KPI cards to summarize important transaction indicators.
+7. Created charts to analyze fraudulent transactions across different categories.
+8. Added interactive filters and a transaction details table.
+9. Designed the final dashboard for clear and interactive transaction risk analysis.
+
+## 💡 Key Benefits
+
+- Simplifies the analysis of credit card transaction data.
+- Helps explore patterns associated with fraudulent transactions.
+- Enables comparisons between fraudulent and legitimate transactions.
+- Supports analysis by category, hour, amount, and age group.
+- Presents transaction insights through interactive visualizations.
+
+## 🖥️ How to View the Project
+
+1. View the PDF dashboard preview available in this repository.
+2. Download the Power BI report (`.pbix`) using the project download link provided in this repository.
+3. Open the `.pbix` file using Microsoft Power BI Desktop.
+4. Explore the charts, KPI cards, and interactive filters.
+
+## 👩‍💻 Author
+
+**Linga Abidha**
+
+- 🎓 B.Sc. Data Science Student
+- 🐙 GitHub: Add your GitHub profile link here
