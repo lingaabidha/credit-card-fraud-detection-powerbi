@@ -92,7 +92,8 @@ The dataset is intended for educational and analytical purposes and does not rep
 ## 📁 Project Files
 
 - **Dashboard Preview:** PDF available in this GitHub repository.
-- **Power BI Report:** [Download the PBIX file](https://drive.google.com/file/d/12aNsI8enzMCRaoiacZaBCmAfqBDJN86C/view?usp=sharing)
+- **Power BI Report:** [Download the PBIX file
+- (https://drive.google.com/file/d/12aNsI8enzMCRaoiacZaBCmAfqBDJN86C/view?usp=sharing)
 
 
 ## 🖥️ How to View the Project
